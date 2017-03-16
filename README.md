@@ -7,5 +7,10 @@ BackDesign :Leean and Lance
 
 This is a README first file!
 
-Master folder is highly recommended to be left untouch.
-Build folder is recommeded to be used for general changes and build(Backend Design)
+1. Master folder is highly recommended to be left untouch.
+2. Build folder is recommended used for general changes and build(Backend Design)
+3. Temporary folder is recommended for intermediate design changes.
+
+
+
+
