@@ -3,7 +3,10 @@
 
 Documentary :Lance
 FrontDesign :James and Shu Luan 
-BackDesign :Leean and Lance
+BackDesign :Leean and Lance, Augustine
+
+Mobile Version:
+Augustine
 
 This is a README first file!
 
